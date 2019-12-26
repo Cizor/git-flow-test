@@ -13,3 +13,4 @@ else:
     exit(0)
 
 print("This is end of program")
+print("Hence ending")
