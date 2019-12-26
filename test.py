@@ -11,3 +11,5 @@ elif int(a) == 3:
 else:
     print('Invalid option')
     exit(0)
+
+print("This is end of program")
